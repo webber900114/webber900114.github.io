@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Wei-Bo Kao, and I will soon begin my DPhil studies in astrophysics at the University of Oxford.  
-My main research interests focus on using numerical simulations to investigate the evolution and formation of active galactic nuclei (AGN) and galaxies.
+I am Wei-Bo Kao, and I will soon begin my DPhil studies in astrophysics at the University of Oxford, supervised by Prof. Julien Devriendt and Prof. Adrianne Slyz. My main research interests focus on using numerical simulations to investigate the evolution and formation of active galactic nuclei (AGN) and galaxies.
 
 Before coming to Oxford, I completed my master’s degree in physics at ETH Zurich under the supervision of Prof. Lucio Mayer, and my bachelor’s degree in astronomy at Peking University.
 
