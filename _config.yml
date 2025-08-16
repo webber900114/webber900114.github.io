@@ -29,7 +29,7 @@ author:
   location         : "Taiwan"
   employer         : "University of Oxford"
   uri              : # URL
-  email            : "none@example.org" # todo: Oxford email
+  email            : # "none@example.org" # todo: Oxford email
 
   # Academic websites
   academia         : # URL
